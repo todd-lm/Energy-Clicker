@@ -7,7 +7,7 @@
 //     x: -250,
 //     y: 260,
 //   })
-//A 5 kW system would cost around $25,000-$35,000. 
+//A 5 kW system would cost around $25,000-$35,000.
 //Setup Vars
 setBackdropColor("white")
 
@@ -100,7 +100,7 @@ sellEnergyButton.onMouseDown(() => {
     money += energy * 10
     energy = 0;
 
-    //Old Sell Energy  
+    //Old Sell Energy
     // if (energy > 10) {
     //   energy -= 10
     //   money += 100
